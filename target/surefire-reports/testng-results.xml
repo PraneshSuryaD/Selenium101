@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-08-21T08:15:50 IST" name="Surefire suite" finished-at="2026-08-21T08:16:37 IST" duration-ms="47506">
+  <suite started-at="2026-08-21T08:41:34 IST" name="Surefire suite" finished-at="2026-08-21T08:42:55 IST" duration-ms="81383">
     <groups>
     </groups>
-    <test started-at="2026-08-21T08:15:50 IST" name="Surefire test" finished-at="2026-08-21T08:16:37 IST" duration-ms="47506">
+    <test started-at="2026-08-21T08:41:34 IST" name="Surefire test" finished-at="2026-08-21T08:42:55 IST" duration-ms="81383">
       <class name="com.example.SeleniumPlaygroundTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:15:50 IST" name="setUp" finished-at="2026-08-21T08:16:00 IST" duration-ms="9742" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:41:34 IST" name="setUp" finished-at="2026-08-21T08:41:48 IST" duration-ms="14073" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testScenario1_SimpleFormDemo()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:16:00 IST" name="testScenario1_SimpleFormDemo" finished-at="2026-08-21T08:16:03 IST" duration-ms="3084" status="PASS">
+        <test-method signature="testScenario1_SimpleFormDemo()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:41:48 IST" name="testScenario1_SimpleFormDemo" finished-at="2026-08-21T08:41:55 IST" duration-ms="6970" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenario1_SimpleFormDemo -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:16:03 IST" name="tearDown" finished-at="2026-08-21T08:16:03 IST" duration-ms="542" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:41:55 IST" name="tearDown" finished-at="2026-08-21T08:41:55 IST" duration-ms="687" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:16:03 IST" name="setUp" finished-at="2026-08-21T08:16:13 IST" duration-ms="10084" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:41:55 IST" name="setUp" finished-at="2026-08-21T08:42:08 IST" duration-ms="12229" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testScenario2_DragAndDropSliders()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:16:13 IST" name="testScenario2_DragAndDropSliders" finished-at="2026-08-21T08:16:18 IST" duration-ms="4671" status="PASS">
+        <test-method signature="testScenario2_DragAndDropSliders()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:42:08 IST" name="testScenario2_DragAndDropSliders" finished-at="2026-08-21T08:42:19 IST" duration-ms="11335" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenario2_DragAndDropSliders -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:16:18 IST" name="tearDown" finished-at="2026-08-21T08:16:19 IST" duration-ms="474" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:42:19 IST" name="tearDown" finished-at="2026-08-21T08:42:20 IST" duration-ms="719" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:16:19 IST" name="setUp" finished-at="2026-08-21T08:16:30 IST" duration-ms="11167" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:42:20 IST" name="setUp" finished-at="2026-08-21T08:42:39 IST" duration-ms="19250" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testScenario3_InputFormSubmit()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:16:30 IST" name="testScenario3_InputFormSubmit" finished-at="2026-08-21T08:16:37 IST" duration-ms="7293" status="PASS">
+        <test-method signature="testScenario3_InputFormSubmit()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:42:39 IST" name="testScenario3_InputFormSubmit" finished-at="2026-08-21T08:42:54 IST" duration-ms="15439" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScenario3_InputFormSubmit -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:16:37 IST" name="tearDown" finished-at="2026-08-21T08:16:37 IST" duration-ms="426" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.SeleniumPlaygroundTest@223f3642]" started-at="2026-08-21T08:42:54 IST" name="tearDown" finished-at="2026-08-21T08:42:55 IST" duration-ms="658" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
